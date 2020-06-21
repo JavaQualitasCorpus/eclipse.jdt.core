@@ -8,10 +8,10 @@ exclude:
 - ./org.eclipse.jdt.apt.core.*
 - ./org.eclipse.jdt.apt.pluggable.core.*
 - ./org.eclipse.jdt.apt.pluggable.tests.*
-- ./org.eclipse.jdt.apt.tests
-- ./org.eclipse.jdt.apt.ui
-- ./org.eclipse.jdt.compiler.apt
-- ./org.eclipse.jdt.compiler.apt.tests
+- ./org.eclipse.jdt.apt.tests.*
+- ./org.eclipse.jdt.apt.ui.*
+- ./org.eclipse.jdt.compiler.apt.*
+- ./org.eclipse.jdt.compiler.apt.tests.*
 - ./org.eclipse.jdt.compiler.tool.*
 - ./org.eclipse.jdt.compiler.tool.tests.*
 - ./org.eclipse.jdt.core.*
