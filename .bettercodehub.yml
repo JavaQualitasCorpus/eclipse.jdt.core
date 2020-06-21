@@ -1,0 +1,26 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./modules.*
+- ./org.eclipse.jdt.annotation.*
+- ./org.eclipse.jdt.annotation_v1
+- ./org.eclipse.jdt.apt.core.*
+- ./org.eclipse.jdt.apt.pluggable.core.*
+- ./org.eclipse.jdt.apt.pluggable.tests.*
+- ./org.eclipse.jdt.apt.tests
+- ./org.eclipse.jdt.apt.ui
+- ./org.eclipse.jdt.compiler.apt
+- ./org.eclipse.jdt.compiler.apt.tests
+- ./org.eclipse.jdt.compiler.tool.*
+- ./org.eclipse.jdt.compiler.tool.tests.*
+- ./org.eclipse.jdt.core.*
+- ./org.eclipse.jdt.core.ecj.validation.*
+- ./org.eclipse.jdt.core.formatterapp.*
+- ./org.eclipse.jdt.core.internal.tools.*
+- ./org.eclipse.jdt.core.tests.builder.*
+- ./org.eclipse.jdt.core.tests.compiler.*
+- ./org.eclipse.jdt.core.tests.model.*
+- ./org.eclipse.jdt.core.tests.performance.*
+- ./org.eclipse.jdt.tests.latestBREE.*
+- ./tests-pom.*
