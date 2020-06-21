@@ -4,7 +4,7 @@ languages:
 exclude:
 - ./modules.*
 - ./org.eclipse.jdt.annotation.*
-- ./org.eclipse.jdt.annotation_v1
+- ./org.eclipse.jdt.annotation_v1.*
 - ./org.eclipse.jdt.apt.core.*
 - ./org.eclipse.jdt.apt.pluggable.core.*
 - ./org.eclipse.jdt.apt.pluggable.tests.*
